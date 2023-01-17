@@ -1,8 +1,13 @@
 
 ---
 
+
 ### :man_technologist: Welcome! A Little About Me...
 I am endeavouring to teach myself as much as I can about the field of computer science, independently of any school, university or institute. I live with ADHD (diagnosed as an adult), which presents challenges of many kinds, one of which is that I struggle with formalised learning. My current goal is to use my GitHub profile to demonstrate my skillset by uploading various projects, and updating my progress as I learn more and more. Hopefully there will be regular updates, so keep visiting and thanks for reading!
+
+https://wshiell.wordpress.com/
+
+---
 
 ---
 
