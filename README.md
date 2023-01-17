@@ -9,8 +9,6 @@ https://wshiell.wordpress.com/
 
 ---
 
----
-
 ### :hammer_and_wrench: Languages and Tools:
 A small sample of my fields of interest (always learning, always improving) - 
 <div>
