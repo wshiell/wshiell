@@ -32,13 +32,12 @@ A small sample of my fields of interest (always learning, always improving) -
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wshiell&theme=dark&background=000000)](https://git.io/streak-stats)
+[![wshiell's GitHub stats](https://github-readme-stats.vercel.app/api?username=wshiell&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/wshiell?tab=repositories) | [![wshiell's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wshiell&layout=compact&hide_border=true&theme=jolly)](https://github.com/wshiell?tab=repositories)
+|:-:|:-:|
+
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=wshiell&style=flat-square&color=blue" alt=""/>
 </div>
-
-| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=wshiell&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/wshiell?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wshiell&layout=compact&hide_border=true&theme=jolly)](https://github.com/wshiell?tab=repositories) |
-|:-:|:-:|
-
 
 <!--
 **wshiell/wshiell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
